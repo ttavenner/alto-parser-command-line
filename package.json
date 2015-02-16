@@ -1,0 +1,10 @@
+{
+  "name": "alto-xml-parser-commandline",
+  "version": "0.1.0",
+  "description": "A simple command line parser to extract the text from an XML file using the ALTO 2.0 schema from the Library of Congress",
+  "author": "Tommy Tavenner <tommy@ttavenner.com",
+  "main": "parser.js",
+  "dependencies": {
+    "xml2js": "~0.4.4"
+  }
+}
